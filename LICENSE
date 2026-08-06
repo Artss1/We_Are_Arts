@@ -1,131 +1,48 @@
-# WE ARE ARTS SOFTWARE LICENSE AGREEMENT
-## Version 2.0 — Effective Date: August 7, 2026
+# ARTS PRIVATE SOFTWARE LICENSE v2.0
+Эффективная дата: 07.08.2026
 
-### LICENSING PARTY: Lumeware (hereinafter referred to as "Licensor", "Author", or "Rights Holder")
+## 1. Определения
+- **"Arts"** или **"Лицензиар"** — автор проекта: Arts (We Are Arts), владелец исключительных прав на программное обеспечение и сопутствующие материалы в данном репозитории.
+- **"Проект"**, **"Продукт"**, **"Коллекция"**, **"Lumeware"** — совокупность скриптов, эксплойтов, кода, документации и других материалов, размещённых в этом репозитории.
+- **"Лицензиат"** — любое физическое или юридическое лицо, получившее доступ к материалам проекта.
+- **"Коммерческое использование"** — использование материалов проекта для получения прямой или косвенной коммерческой выгоды (продажа, предоставление платного доступа, интеграция в продукты/услуги с целью извлечения прибыли и т. п.).
+- **"Копирование и распространение"** — воспроизведение, распространение, публичное размещение, форк, репост, публикация в других репозиториях, форумах, каналах, социальных сетях и т. п.
 
----
+## 2. Авторские права
+- Все права, титулы и интересы на исходный код, скрипты, эксплойты и сопутствующие материалы проекта Lumeware принадлежат исключительно **Arts (We Are Arts)** и защищены действующим законодательством об авторском праве и иными применимыми нормами.
+- Никакие права на использование, воспроизведение, изменение или распространение материалов не передаются автоматически и не подразумеваются, если это прямо не оговорено в настоящей лицензии или подписанном письменном соглашении с Arts.
 
-**THIS SOFTWARE LICENSE AGREEMENT** ("Agreement") is a legally binding agreement between the Rights Holder identified above and any individual, entity, or organization that accesses, downloads, copies, modifies, distributes, or otherwise uses any software, scripts, source code, documentation, or related materials contained within this repository (collectively, the "Software").
+## 3. Запрет на копирование и распространение
+- Любое частичное или полное копирование, републикация, публикация, форк, зеркалирование или иное распространение материалов проекта Lumeware без письменного предварительного разрешения **Arts** строго запрещено.
+- Запрещено размещать материалы проекта в публичных или частных репозиториях, на файлообменниках, форумах, каналах (включая Discord, Telegram, YouTube и т. п.), а также передавать третьим лицам, если иное не согласовано письменно с Arts.
 
-**BY ACCESSING, DOWNLOADING, INSTALLING, COPYING, MODIF YING, OR USING THE SOFTWARE IN ANY MANNER WHATSOEVER, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT CAREFULLY, UNDERSTAND ITS TERMS AND CONDITIONS, AND AGREE TO BE BOUND BY ALL OF ITS PROVISIONS. IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST IMMEDIATELY CEASE USE AND DELETE ALL COPIES OF THE SOFTWARE FROM YOUR SYSTEMS.**
+## 4. Запрет на коммерческое использование
+- Коммерческое использование материалов Lumeware запрещено без отдельного письменного лицензирования от Arts.
+- Под коммерческим использованием понимается, в том числе, продажа доступа, включение материалов в платные сервисы, предоставление услуг по настройке/распространению за плату, использование в составе продуктов, предназначенных для продажи или получения иного дохода.
 
----
+## 5. Отказ от гарантий (AS IS)
+- Материалы предоставляются **"как есть" (AS IS)**. Arts не даёт каких-либо явных или подразумеваемых гарантий пригодности для конкретной цели, отсутствия нарушений прав третьих лиц или беспроблемной работы.
+- Пользователь использует материалы на свой собственный риск.
 
-## ARTICLE I — DEFINITIONS
+## 6. Ограничение ответственности
+- Arts не несёт ответственности за любой прямой, косвенный, случайный, особый или упущенную выгоду, возникшую в результате использования или невозможности использования материалов проекта Lumeware, включая, но не ограничиваясь, блокировкой аккаунтов, утратой данных, нарушением работоспособности ПО, аппаратного обеспечения или иными последствиями.
+- Ни при каких обстоятельствах общая ответственность Arts не должна превышать сумму в размере фактически полученной от Лицензиата компенсации по прямому письменному соглашению (если такое существовало). Если компенсация отсутствует — ответственность ограничена нулём.
 
-**Section 1.1 — "Software"** shall mean all source code, scripts, configuration files, documentation, assets, derivatives, modifications, translations, adaptations, and any other materials provided within this repository, including but not limited to Roblox Lua scripts, automation tools, and associated utilities.
+## 7. Право на пресечение нарушений (жалобы, DMCA, суды)
+- Любые нарушения прав Arts будут пресекаться максимально полно в пределах применимого законодательства. Arts оставляет за собой право предпринимать следующие действия: отправка уведомлений о нарушении контента хостинг-провайдерам и платформам (включая DMCA-уведомления), запросы на удаление, блокировку учётных записей, сбор доказательств и инициирование гражданских исков.
+- Для подачи жалобы о нарушении прав направьте письменное уведомление на контакт, указанный в репозитории. Жалоба должна содержать: (i) идентификацию охраняемого материала, (ii) указание места нарушения, (iii) контактную информацию заявителя, (iv) подписанное заявление о добросовестности и точности сведений.
+- Arts будет сотрудничать с правоохранительными и иными уполномоченными органами при расследовании нарушений и предоставлять соответствующие данные для установления виновных лиц.
 
-**Section 1.2 — "Licensor"** shall mean Lumeware, the sole rights holder and author of the Software.
+## 8. Изменение условий
+- Arts оставляет за собой право вносить изменения в условия настоящей лицензии. Изменения вступают в силу с момента публикации новой редакции в репозитории или на официальных ресурсах Arts.
+- Продолжение использования материалов после опубликования изменений означает принятие новых условий.
 
-**Section 1.3 — "Licensee"** shall mean any natural or legal person, entity, organization, or automated system that accesses, obtains, or uses the Software in any manner.
-
-**Section 1.4 — "Commercial Use"** shall mean any exploitation of the Software, in whole or in part, for direct or indirect economic gain, including but not limited to: sale, licensing, sublicensing, rental, lease, monetization through advertising or sponsorship, inclusion in paid products or services, integration into commercial platforms, demonstration in client-facing projects, and any other activity reasonably construed as generating financial benefit.
-
-**Section 1.5 — "Derivative Works"** shall mean any modification, adaptation, translation, reverse engineering, decompilation, disassembly, enhancement, improvement, or other transformation of the Software, whether partial or complete.
-
----
-
-## ARTICLE II — GRANT OF RIGHTS AND RESTRICTIONS
-
-**Section 2.1 — Limited Personal License.** The Licensor grants the Licensee a narrow, non-exclusive, non-transferable, revocable, and freely withdrawable license to view and study the Software solely for personal, educational, and informational purposes. This license expressly excludes all rights not explicitly granted herein.
-
-**Section 2.2 — No Commercial Exploitation.** The Licensee is strictly prohibited from using, reproducing, distributing, publishing, displaying, performing, or otherwise exploiting the Software for any Commercial Use whatsoever without the prior written consent of the Licensor. Any unauthorized Commercial Use constitutes a material breach of this Agreement and may result in civil liability, statutory damages, and/or criminal prosecution under applicable intellectual property laws.
-
-**Section 2.3 — No Reproduction or Distribution.** The Licensee shall not copy, reproduce, duplicate, redistribute, sublicense, publish, post, transmit, display, sell, lease, rent, or otherwise distribute the Software, in whole or in part, to any third party or public forum without the express written authorization of the Licensor.
-
-**Section 2.4 — No Modification or Derivative Works.** The Licensee shall not modify, adapt, translate, alter, transform, prepare derivative works from, decompile, reverse engineer, disassemble, or attempt to derive the source code or underlying ideas, algorithms, or architecture of the Software. Any violation of this provision shall be deemed an act of infringement.
-
-**Section 2.5 — No Removal of Notices.** The Licensee shall not remove, alter, obscure, or suppress any copyright notices, trademark notices, attribution statements, or other proprietary markings contained within the Software.
-
----
-
-## ARTICLE III — INTELLECTUAL PROPERTY RIGHTS
-
-**Section 3.1 — Ownership.** The Software, including all accompanying documentation and related materials, is the exclusive intellectual property of the Licensor. All rights, title, and interest in and to the Software, including all patents, copyrights, trademarks, trade secrets, and other intellectual property rights, are and shall remain the sole and exclusive property of the Licensor.
-
-**Section 3.2 — Reservation of Rights.** No rights, licenses, or immunities are granted to the Licensee except as expressly set forth in this Agreement. All rights not expressly granted are reserved by the Licensor. Nothing in this Agreement shall be construed as transferring ownership of the Software or any portion thereof to the Licensee.
-
-**Section 3.3 — Trademark Protection.** The name "Lumeware," the designation "We Are Arts," and all related logos, marks, and branding are trademarks and/or service marks of the Licensor. The Licensee shall not use such marks in any manner that suggests endorsement, affiliation, or sponsorship by the Licensor without prior written permission.
+## 9. Прочие положения
+- Если какое-либо положение настоящей лицензии будет признано недействительным или неисполнимым, это не влияет на действительность остальных положений, которые остаются в полной силе.
+- Настоящая лицензия представляет собой полное соглашение между сторонами в отношении предмета её регулирования и заменяет все предыдущие устные или письменные договорённости.
+- Вопросы, не урегулированные настоящей лицензией, подлежат разрешению в соответствии с применимым законодательством и компетентными судами.
 
 ---
 
-## ARTICLE IV — DISCLAIMER OF WARRANTIES
 
-**Section 4.1 — "As Is" Provision.** THE SOFTWARE IS PROVIDED BY THE LICENSOR ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND UNINTERRUPTED OPERATION.
-
-**Section 4.2 — No Guarantee of Functionality.** THE LICENSOR MAKES NO REPRESENTATION OR WARRANTY THAT THE SOFTWARE WILL MEET THE LICENSEE'S REQUIREMENTS, OPERATE WITHOUT ERROR, BE COMPATIBLE WITH ANY SPECIFIC PLATFORM OR ENVIRONMENT, OR REMAIN FREE FROM MALICIOUS INTERFERENCE, DETECTION, OR BLOCKING BY THIRD-PARTY SERVICES (INCLUDING BUT NOT LIMITED TO ROBLOX CORPORATION'S ANTI-CHEAT SYSTEMS).
-
-**Section 4.3 — Assumption of Risk.** THE LICENSEE ACKNOWLEDGES THAT USE OF THE SOFTWARE IS AT THE LICENSEE'S SOLE RISK. THE LICENSEE ASSUMES FULL RESPONSIBILITY FOR ANY CONSEQUENCES ARISING FROM THE USE OR MISUSE OF THE SOFTWARE, INCLUDING BUT NOT LIMITED TO ACCOUNT TERMINATIONS, DEVICE DAMAGE, DATA LOSS, LEGAL LIABILITY, OR OTHER FORMS OF REPRISAL.
-
----
-
-## ARTICLE V — LIMITATION OF LIABILITY
-
-**Section 5.1 — Exclusion of Damages.** IN NO EVENT SHALL THE LICENSOR, ITS AFFILIATES, AGENTS, OR REPRESENTATIVES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL, EXEMPLARY, OR COLLATERAL DAMAGES, INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; BUSINESS INTERRUPTION; ACCOUNT SUSPENSION OR TERMINATION; DEVICE BRICKING; LEGAL PENALTIES; OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-**Section 5.2 — Jurisdictional Maximum.** SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES. IN SUCH JURISDICTIONS, THE LICENSOR'S LIABILITY SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
-
----
-
-## ARTICLE VI — ENFORCEMENT AND REMEDIES
-
-**Section 6.1 — Right to Enforce.** The Licensor reserves the unconditional right to enforce the terms of this Agreement through all available legal, equitable, and administrative remedies, including but not limited to:
-
-- (a) Filing takedown notices, DMCA complaints, and similar removal requests with GitHub, GitLab, Bitbucket, and all other hosting platforms;
-- (b) Initiating cease-and-desist proceedings against infringing parties;
-- (c) Submitting reports to relevant law enforcement agencies and regulatory bodies;
-- (d) Filing civil lawsuits for injunctive relief, monetary damages, statutory penalties, and recovery of attorney's fees and litigation costs;
-- (e) Reporting violations to platform operators (including Roblox Corporation) for account-level enforcement actions;
-- (f) Pursuing all other remedies available under applicable national and international intellectual property laws.
-
-**Section 6.2 — Injunctive Relief.** The Licensee acknowledges that unauthorized use, reproduction, distribution, or modification of the Software would cause irreparable harm to the Licensor for which monetary damages would be inadequate. Accordingly, the Licensor shall be entitled to seek immediate injunctive relief, specific performance, and other equitable remedies, without the necessity of posting bond or proving actual damages.
-
-**Section 6.3 — Indemnification.** The Licensee agrees to indemnify, defend, and hold harmless the Licensor from and against any and all claims, liabilities, damages, losses, costs, expenses (including reasonable attorney's fees), and demands arising out of or related to the Licensee's breach of this Agreement, unauthorized use of the Software, or violation of any applicable law or regulation.
-
----
-
-## ARTICLE VII — TERM AND TERMINATION
-
-**Section 7.1 — Term.** This Agreement shall remain in full force and effect until terminated by the Licensor or until all intellectual property rights in the Software have expired or been surrendered.
-
-**Section 7.2 — Termination for Breach.** The Licensor may terminate this Agreement and revoke all licenses granted herein, effective immediately upon discovery of any breach by the Licensee. Upon termination, the Licensee must immediately cease all use of the Software and permanently delete all copies from all systems and devices under their control.
-
-**Section 7.3 — Survival.** Sections II.5, III, IV, V, VI, VIII, and IX shall survive the termination or expiration of this Agreement indefinitely.
-
----
-
-## ARTICLE VIII — MODIFICATION OF TERMS
-
-**Section 8.1 — Unilateral Amendment.** The Licensor reserves the exclusive right to modify, amend, update, or replace this Agreement at any time, in the Licensor's sole discretion, without prior notice to any Licensee. Revised versions of this Agreement will be published within this repository and shall bear an updated version number and effective date.
-
-**Section 8.2 — Binding Effect of Updates.** Continued use of the Software following the publication of any revised Agreement constitutes the Licensee's irrevocable acceptance of the updated terms. It is the Licensee's responsibility to periodically review this Agreement for changes.
-
----
-
-## ARTICLE IX — GENERAL PROVISIONS
-
-**Section 9.1 — Severability.** If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect. The court shall interpret any invalid provision in a manner that most closely reflects the original intent of the Licensor.
-
-**Section 9.2 — Waiver.** The failure or delay of the Licensor in exercising any right, power, or remedy under this Agreement shall not operate as a waiver thereof, nor shall any single or partial exercise preclude any further or other exercise of such right, power, or remedy.
-
-**Section 9.3 — Entire Agreement.** This Agreement constitutes the entire understanding between the Licensor and the Licensee concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, representations, warranties, negotiations, and understandings, whether written or oral.
-
-**Section 9.4 — Governing Law and Jurisdiction.** This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides, without regard to conflict of law principles. Any disputes arising under or relating to this Agreement shall be resolved exclusively in the courts located within said jurisdiction.
-
-**Section 9.5 — International Applicability.** The Licensee acknowledges that the Software may be accessed from jurisdictions with differing intellectual property laws. The Licensee is responsible for ensuring compliance with all applicable local, national, and international laws governing the use, distribution, and modification of the Software.
-
-**Section 9.6 — No Partnership or Agency.** Nothing in this Agreement shall be construed to create a partnership, joint venture, employment relationship, or agency between the Licensor and the Licensee.
-
----
-
-## CONTACT INFORMATION
-
-All inquiries regarding permissions, licensing requests, compliance matters, or legal notices should be directed to:
-
-**Licensor:** Lumeware  
-
----
-
-© 2026 Lumeware (We Are Arts). All Rights Reserved.
-
-This work is licensed under the **We Are Arts Software License Agreement v2.0**. Redistribution and use in source and binary forms, with or without modification, are strictly prohibited without prior written authorization from the Rights Holder.
+Нарушение условий данной лицензии влечёт за собой гражданско-правовую и/или административную и/или уголовную ответственность в пределах применимого законодательства. Arts активно отслеживает нарушения и будет предпринимать соответствующие меры вплоть до подачи исков в суд.
