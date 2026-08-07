@@ -1,0 +1,5 @@
+local V = {
+ Avtor  = "arts",
+ Version = 1
+
+}
